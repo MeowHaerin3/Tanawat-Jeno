@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeowHaerin3
 - 👀 I’m interested in data engineer or Devops
-- 🌱 I’m currently learning Automation engineer - kmitl
+- 🌱 I’m currently learning Automation engineer - kmitl 4th grade
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...'Jeno'
