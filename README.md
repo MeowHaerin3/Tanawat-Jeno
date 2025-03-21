@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @MeowHaerin3
-- 👀 I’m interested in data engineer or Devops
-- 🌱 I’m currently learning Automation engineer - kmitl 4th grade
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...'Jeno'
-- ⚡ Fun fact: ...;kazy
+## Hi there! 👋  
 
-<!---
-MeowHaerin3/MeowHaerin3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Jeno!!, an Automation Engineer.
+🚀 Passionate about **building efficient data pipelines, optimizing databases, and automating workflows.**  
+I love solving complex data challenges and turning raw data into valuable insights. 
+And i'm appreciate to learn mroe things can improve my knowledge and my skills.
+
+### 🔧 Tech Stack  
+- 💻 **Programming:** Python, SQL, Pandas, NumPy
+- 🛠️ **Data Engineering:** PostgreSQL, Dagster, dbt
+- 📊 **Visualization:** Power BI, streamlit
+- 🌐 **Web:** HTML,CSS, Javascripts, REACT(in-progress) 
+
+### 🚀 Projects  
+🔹 [AQI Forecasting Dashboard](https://github.com/yourusername/aqi-dashboard)  
+
+
+### 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🌎 [Portfolio](https://yourportfolio.com)  
